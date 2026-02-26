@@ -1,0 +1,25 @@
+* {
+  font-family: Arial, sans-serif;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+
+  min-height: 100vh;
+  margin: 0;
+}
+
+main {
+  display: flex;
+  flex-direction: column;
+}
+
+main h1 {
+  padding: 1rem;
+  background-color: rgb(240, 240, 240);
+}
+
+main p {
+  background-color: rgb(255, 255, 255);
+}
