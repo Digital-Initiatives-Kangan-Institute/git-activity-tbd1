@@ -1,4 +1,4 @@
-# Git Activity TBD1
+# 🪳 Git Activity TBD1
 This is a task to practice forking, cloning, staging, committing, and pushing.
 
 ## Task Instructions
